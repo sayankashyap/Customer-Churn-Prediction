@@ -92,7 +92,7 @@ This project successfully demonstrates a **data-driven approach** to predicting 
 
 ## ✨ Author  
 **👤 Sayan Kashyap**  
-🔗 [https://www.linkedin.com/in/sayan-kashyap/]  
+🔗 [https://www.linkedin.com/in/sayankashyap/]
 
 ---
 
